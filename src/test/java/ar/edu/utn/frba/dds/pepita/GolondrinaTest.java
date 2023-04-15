@@ -2,6 +2,8 @@ package ar.edu.utn.frba.dds.pepita;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import ar.edu.utn.frba.dds.Golondrina;
+
 
 public class GolondrinaTest {
 
